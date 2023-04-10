@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Bini</h1>
 <h3 align="center">A fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelbini" alt="rafaelbini" /></a> </p>
-
-- 🔭 I’m currently working on [Jogo do Dicionario (Dictionary Game)](https://github.com/RafaelBini/JogoDicionario-Frontend)
-
 - 📝 I regularly write articles on [https://meucodigo-3bb8d.web.app/](https://meucodigo-3bb8d.web.app/)
 
 - 💬 Ask me about **Angular, C# .NET and SQL**
